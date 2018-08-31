@@ -12,8 +12,8 @@ public class Main {
         String empty = "";
 
         try {
-            // If phrase is null, return a false value
-            if (phrase == null || phrase == empty) {
+            // If phrase is empty, return a false value
+            if (phrase == empty) {
                 System.out.println("String is empty");
             }
 
