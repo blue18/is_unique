@@ -1,5 +1,5 @@
 // August 30, 2018
-// Description - A function that determines whether a string has unique chars.
+// Description - A function that determines whether a string has unique chars..
 package code;
 
 public class Main {
